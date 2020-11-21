@@ -1,0 +1,32 @@
+{
+  "groups": [
+    {
+      "name": "sms",
+      "type": "com.han.utils.sms.config.SmsProperties",
+      "sourceType": "com.han.utils.sms.config.SmsProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "sms.access-key-i-d",
+      "type": "java.lang.String",
+      "sourceType": "com.han.utils.sms.config.SmsProperties"
+    },
+    {
+      "name": "sms.access-key-secret",
+      "type": "java.lang.String",
+      "sourceType": "com.han.utils.sms.config.SmsProperties"
+    },
+    {
+      "name": "sms.sign-name",
+      "type": "java.lang.String",
+      "sourceType": "com.han.utils.sms.config.SmsProperties"
+    },
+    {
+      "name": "sms.verify-code-template",
+      "type": "java.lang.String",
+      "sourceType": "com.han.utils.sms.config.SmsProperties"
+    }
+  ],
+  "hints": []
+}
